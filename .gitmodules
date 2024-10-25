@@ -2,3 +2,6 @@
 [submodule "libs/libzip"]
 	path = libs/libzip
 	url = https://github.com/nih-at/libzip.git
+[submodule "miniz-cpp"]
+	path = miniz-cpp
+	url = https://github.com/tfussell/miniz-cpp.git
